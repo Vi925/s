@@ -1,7 +1,7 @@
 
 
 # Process .c files in "Private-main" and copy contents to clipboard
-$folderPath = "$PSScriptRoot\Private-main"
+$folderPath = "$PSScriptRoot\this"
 $files = Get-ChildItem -Path $folderPath -Filter "*.c"
 
 $clipboardContent = ""
