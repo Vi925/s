@@ -1,3 +1,5 @@
+// Implementation: Shift-Reduce Parser (Manual for LALR(1) Grammar) 
+ 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

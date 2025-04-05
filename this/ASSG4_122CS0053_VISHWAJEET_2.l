@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Binary to Decimal Converter 
+ 
 /* definitions */
 %{
 // including required header files

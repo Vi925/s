@@ -1,3 +1,5 @@
+// Implementation: Shift-Reduce Parser (Manual for S->CC, C->cC|d) 
+ 
 #include <stdio.h>
 #include <string.h>
 

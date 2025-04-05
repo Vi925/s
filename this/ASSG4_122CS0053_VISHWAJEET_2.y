@@ -1,3 +1,5 @@
+// Implementation: Parser (Yacc) for Binary to Decimal Converter 
+ 
 /* definition section*/
 %{
 #include<stdio.h>

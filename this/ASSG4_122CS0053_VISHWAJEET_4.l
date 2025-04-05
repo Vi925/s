@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Abstract Syntax Tree (AST) Generator 
+ 
 %{
 #include "y.tab.h"
 extern int yylval;

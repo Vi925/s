@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Token Counting 
+ 
 %{
 #include <stdio.h>
 #include <string.h>

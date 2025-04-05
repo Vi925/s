@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Whitespace Removal 
+ 
 %{
 #include <stdio.h>
 #include <stdlib.h>

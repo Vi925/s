@@ -1,3 +1,5 @@
+// Implementation: Shift-Reduce Parser (Manual for Basic Expressions) 
+ 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

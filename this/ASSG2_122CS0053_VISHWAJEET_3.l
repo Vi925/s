@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) to Identify Floating Point Numbers 
+ 
 %{
 #include <stdio.h>
 %}

@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Infix to Postfix Converter 
+ 
 %{
  #include "y.tab.h"
  #include <stdlib.h>

@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Pig Latin Translation 
+ 
 %{
 #include <stdio.h>
 #include <ctype.h>

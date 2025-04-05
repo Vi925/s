@@ -1,3 +1,5 @@
+// Implementation: Parser Error Recovery (Panic Mode - C Implementation) 
+ 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

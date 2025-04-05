@@ -1,3 +1,5 @@
+// Implementation: Shift-Reduce Parser (Manual - Operator Precedence Style) 
+ 
 #include <stdio.h>
 #include <string.h>
 

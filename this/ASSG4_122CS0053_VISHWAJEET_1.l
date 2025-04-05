@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Arithmetic Calculator (with Modulo) 
+ 
 %{
 #include "y.tab.h"
 #include <stdio.h>

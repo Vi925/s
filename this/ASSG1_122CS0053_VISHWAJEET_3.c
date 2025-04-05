@@ -1,3 +1,5 @@
+// Implementation: DFA Simulation (Accepts strings ending in ""01"") 
+ 
 #include <stdio.h>
 #include <string.h>
 

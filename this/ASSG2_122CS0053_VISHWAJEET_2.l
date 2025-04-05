@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Arithmetic Calculator 
+ 
 %{
 #include "y.tab.h"  // Includes definitions from the YACC output
 %}

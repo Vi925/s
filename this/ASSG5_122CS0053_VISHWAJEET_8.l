@@ -1,3 +1,5 @@
+// Implementation: Lexer (Lex) for Assignment Statement Parser 
+ 
 %{
 #include "y.tab.h"
 %}

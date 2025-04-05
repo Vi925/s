@@ -1,3 +1,5 @@
+// Implementation: DFA Simulation (Accepts strings matching a(even)b+) 
+ 
 #include <stdio.h>
 #include <string.h>
 
